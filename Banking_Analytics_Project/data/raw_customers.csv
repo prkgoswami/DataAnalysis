@@ -1,0 +1,17 @@
+id,customer_name,account_type,balance,transaction_date,city,status,branch_code
+101,  John Doe ,Savings,15000.50,2026-01-15,New York,ACTIVE,BR001
+102,Jane Smith,Checking,25000.00,15/01/2026,NEW YORK,ACTIVE,BR001
+103,   Robert Johnson ,SAVINGS,-500.00,2026-01-16,Chicago,ACTIVE,BR002
+104,Alice Williams,checking,12000.75,2026-01-17,CHICAGO,INACTIVE,BR002
+105,Charlie Brown,Savings,NULL,2026-01-18,Houston,ACTIVE,BR003
+101,  John Doe ,Savings,15000.50,2026-01-15,New York,ACTIVE,BR001
+106,  Eva Green ,CHECKING,8500.25,19-01-2026,houston,ACTIVE,BR003
+107,David Miller,Savings,45000.00,2026-02-01,New York,INACTIVE,BR001
+108,  Frank Wilson ,Checking,NULL,2026/02/02,CHICAGO,ACTIVE,BR002
+109,Grace Lee,SAVINGS,6700.00,2026-02-03,New York,ACTIVE,BR001
+110,  Hank Adams ,checking,3200.00,04-02-2026,Houston,INACTIVE,BR003
+111,Ivy Taylor,Savings,18900.50,2026-02-05,Chicago,ACTIVE,BR002
+112,Jack Anderson,CHECKING,95000.00,2026-02-06,NEW YORK,ACTIVE,BR001
+113,Karen Thomas,Savings,450.00,2026-02-07,houston,INACTIVE,BR003
+114,  Leo Martin ,checking,-120.00,08/02/2026,Chicago,ACTIVE,BR002
+115,Mia White,SAVINGS,28000.00,2026-02-09,New York,ACTIVE,BR001
